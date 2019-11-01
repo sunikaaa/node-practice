@@ -1,0 +1,17 @@
+{
+  "name": "node-4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "http-status-code": "^2.1.0",
+    "nodemon": "^1.19.4"
+  }
+}
