@@ -13,5 +13,9 @@
     "express-ejs-layouts": "^2.5.0",
     "http-status-code": "^2.1.0",
     "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "mongodb": "^3.3.3",
+    "mongoose": "^5.7.7"
   }
 }
